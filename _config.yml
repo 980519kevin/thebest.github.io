@@ -5,6 +5,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
 
+remote theme : rowanoulton/galileo-theme
 # Site settings
 title: Predicting flight delays
 author: The Best
